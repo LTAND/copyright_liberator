@@ -54,7 +54,4 @@ python3 tool.py /Users/**/copyright-tool/copyright.docx /Users/**/channel-server
 # 其他
 
 - 请养成先 star 再使用的好习惯。
-- 如果需要更多的样式或功能支持请扫码支付 -> 
-https://www.gitbook.com/book/mikumikulch/chucklin_blog 
-价格随缘即可。
 
