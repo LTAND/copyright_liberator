@@ -2,7 +2,7 @@
 
 软著救星帮你从指定的工程目录下拷贝所有的代码，并尽力避开名称与日期相关的注释后输出到指定 word 文档。
 
-### v1.0 生成的 word 样式
+v1.0 生成的 word 样式
 
 |字体|字号|其他|备注|
 |--|--|--|--|
@@ -48,6 +48,10 @@ python3 tool.py /Users/**/copyright-tool/copyright.docx /Users/**/channel-server
 
 ```
 
+
+# License
+[MIT License](https://choosealicense.com/licenses/mit/) 。
+
 # 其他
 
 - 请养成先 star 再使用的好习惯。
@@ -55,5 +59,3 @@ python3 tool.py /Users/**/copyright-tool/copyright.docx /Users/**/channel-server
 https://www.gitbook.com/book/mikumikulch/chucklin_blog 
 价格随缘即可。
 
-项目严格遵守 [MIT License](https://choosealicense.com/licenses/mit/) 。你可以在署名原作者的情况下采用任何方式使用本代码，
-但原作者不承担代码使用后的风险，也没有技术支持的义务。
